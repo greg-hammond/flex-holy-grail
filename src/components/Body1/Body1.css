@@ -1,0 +1,16 @@
+
+.body1 {
+    background-color: aqua;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.items p {
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid #333;
+    border-radius: 4px;
+}
