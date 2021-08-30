@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flex-holy-grail/static/css/main.d6efc2f1.chunk.css",
+    "main.js": "/flex-holy-grail/static/js/main.61031c22.chunk.js",
+    "main.js.map": "/flex-holy-grail/static/js/main.61031c22.chunk.js.map",
+    "runtime-main.js": "/flex-holy-grail/static/js/runtime-main.2cd8ef54.js",
+    "runtime-main.js.map": "/flex-holy-grail/static/js/runtime-main.2cd8ef54.js.map",
+    "static/js/2.af07f00f.chunk.js": "/flex-holy-grail/static/js/2.af07f00f.chunk.js",
+    "static/js/2.af07f00f.chunk.js.map": "/flex-holy-grail/static/js/2.af07f00f.chunk.js.map",
+    "static/js/3.3a03bfaa.chunk.js": "/flex-holy-grail/static/js/3.3a03bfaa.chunk.js",
+    "static/js/3.3a03bfaa.chunk.js.map": "/flex-holy-grail/static/js/3.3a03bfaa.chunk.js.map",
+    "index.html": "/flex-holy-grail/index.html",
+    "static/css/main.d6efc2f1.chunk.css.map": "/flex-holy-grail/static/css/main.d6efc2f1.chunk.css.map",
+    "static/js/2.af07f00f.chunk.js.LICENSE.txt": "/flex-holy-grail/static/js/2.af07f00f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/flex-holy-grail/static/media/puppy.7e65a446.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd8ef54.js",
+    "static/js/2.af07f00f.chunk.js",
+    "static/css/main.d6efc2f1.chunk.css",
+    "static/js/main.61031c22.chunk.js"
+  ]
+}
