@@ -5,7 +5,6 @@ import "./Header.css";
 const Header = () => {
     return (
         <div className="header general">
-            <p>Header</p>
             <p>
                 <Link to="/one" className="link">
                     Body One

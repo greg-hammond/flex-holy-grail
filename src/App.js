@@ -12,9 +12,9 @@ function App() {
       <BrowserRouter>
         <div className="App">
           <Header />
-          <Route exact path="/" component={Body1} />
           <Route exact path="/one" component={Body1} />
           <Route exact path="/two" component={Body2} />
+          <Route exact path="/" component={Body1} />
           <Footer />
         </div>
       </BrowserRouter>

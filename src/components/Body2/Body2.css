@@ -1,16 +1,9 @@
 .body2 {
-    background-color: hsl(215, 17%, 28%);
+    background-color: hsl(215, 17%, 48%);
 }
+
 
 .body2 .items {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    max-height: 70%;
-}
-
-.body2 .item {
-    padding: 1em;
-    margin: 1em;
-    border: 2px solid #FA0;
+    display: block;
+    margin-left: 40%;
 }

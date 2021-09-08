@@ -5,10 +5,11 @@
   box-sizing: border-box;
 }
 
+/* this lays out the entire app as going top to bottom.  header - main area -footer */
 .App {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: 100%; 
 }
 
 /*  all three of these are needed to achieve full height layout */
@@ -16,11 +17,15 @@ html, body, #root {
   height: 100%;
 }
 
+/* this says header and footer should NOT stretch vertically */
 .header, .footer {
-  flex: 0;
+  flex: none;
 }
 
-/* applies to body1 and body2 */
+/* meaning that any component that should live between header and footer *SHOULD* flex vertically -
+and that it should scroll if needed - to both keep the footer at the bottom, as well as show all
+content without being hidden underneath the footer
+*/
 .flex-component {
   flex: 1 1 0;
   overflow-y: auto;
